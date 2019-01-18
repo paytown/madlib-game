@@ -1,4 +1,18 @@
+body {
+    background-color: #E5D4BA;
+    color: #36434C;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 label {
     display: block;
     padding: 5px;
+    color: #A1766F;
+}
+
+button {
+    color: #FFFFFF;
+    background: #36435C;
+    padding: 5px;
+    border: 0px;
 }
